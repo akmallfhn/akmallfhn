@@ -26,8 +26,6 @@ Dart        ▌░░░░░░░░░░░░░░░░░░░  <1%
 
 <div align="center">
 
-![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmallfhn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Akmal's contribution snake](https://raw.githubusercontent.com/akmallfhn/akmallfhn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Akmal's contribution snake](https://raw.githubusercontent.com/akmallfhn/akmallfhn/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
