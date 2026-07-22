@@ -12,15 +12,23 @@ Part-time researcher, full-time accidental CTO. Turns out you don't need a CS de
 Pulled straight from my contribution history: own repos and the ones I've crashed for other people.
 
 ```text
-TypeScript  ██████████████░░░░░░  72%
-JavaScript  ██░░░░░░░░░░░░░░░░░░   9%
-Go          █░░░░░░░░░░░░░░░░░░░   5%
+TypeScript  ████████████████░░░░  78%
+Go          ██░░░░░░░░░░░░░░░░░░   9%
+JavaScript  █░░░░░░░░░░░░░░░░░░░   7%
 Python      █░░░░░░░░░░░░░░░░░░░   4%
+CSS         ▌░░░░░░░░░░░░░░░░░░░  <1%
 R           ▌░░░░░░░░░░░░░░░░░░░  <1%
+Vue         ▌░░░░░░░░░░░░░░░░░░░  <1%
 Dart        ▌░░░░░░░░░░░░░░░░░░░  <1%
-────────────────────────────────────
-HTML        █░░░░░░░░░░░░░░░░░░░   7%  ─┐
-CSS         █░░░░░░░░░░░░░░░░░░░   2%  ─┘ arguably not "real" programming languages, don't @ me
 ```
 
-> Snapshot as of July 2026, based on byte-level language stats across all owned + contributed-to repositories.
+> Snapshot as of July 2026, based on byte-level language stats across 23 owned + contributed-to repositories.
+
+<div align="center">
+
+![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmallfhn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Akmal's contribution snake](https://raw.githubusercontent.com/akmallfhn/akmallfhn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Akmal's contribution snake](https://raw.githubusercontent.com/akmallfhn/akmallfhn/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
