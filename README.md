@@ -12,21 +12,17 @@ Part-time researcher, full-time accidental CTO. Turns out you don't need a CS de
 Pulled straight from my contribution history: own repos and the ones I've crashed for other people.
 
 ```text
-TypeScript  ████████████████░░░░  78%
+TypeScript  ████████████████░░░░  80%
 Go          ██░░░░░░░░░░░░░░░░░░   9%
-JavaScript  █░░░░░░░░░░░░░░░░░░░   7%
-Python      █░░░░░░░░░░░░░░░░░░░   4%
-CSS         ▌░░░░░░░░░░░░░░░░░░░  <1%
+JavaScript  █░░░░░░░░░░░░░░░░░░░   5%
+Java        ▌░░░░░░░░░░░░░░░░░░░   2%
+Python      ▌░░░░░░░░░░░░░░░░░░░   2%
+Kotlin      ▌░░░░░░░░░░░░░░░░░░░  <1%
+PLpgSQL     ▌░░░░░░░░░░░░░░░░░░░  <1%
 R           ▌░░░░░░░░░░░░░░░░░░░  <1%
 Vue         ▌░░░░░░░░░░░░░░░░░░░  <1%
 Dart        ▌░░░░░░░░░░░░░░░░░░░  <1%
+C++         ▌░░░░░░░░░░░░░░░░░░░  <1%
 ```
 
-> Snapshot as of July 2026, based on byte-level language stats across 23 owned + contributed-to repositories.
-
-<div align="center">
-
-![Akmal's contribution snake](https://raw.githubusercontent.com/akmallfhn/akmallfhn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Akmal's contribution snake](https://raw.githubusercontent.com/akmallfhn/akmallfhn/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
+> Snapshot as of August 2026, based on byte-level language stats across 33 owned + contributed-to repositories (markup languages like HTML/CSS excluded).
